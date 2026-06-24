@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oouYFV8ShLs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoelCarter\\source\\repos\\Calculator\\Calculator\\Calculator.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoelCarter\\.nuget\\packages\\fsharp.core\\10.1.301\\fsharp.core.10.1.301.nupkg.sha512"
+  ],
+  "logs": []
+}

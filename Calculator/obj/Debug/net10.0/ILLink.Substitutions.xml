@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Calculator">
+    <resource name="FSharpSignatureData.Calculator" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Calculator" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Calculator" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Calculator" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Calculator" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Calculator" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Calculator" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Calculator" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Calculator" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Calculator" action="remove"></resource>
+  </assembly>
+</linker>

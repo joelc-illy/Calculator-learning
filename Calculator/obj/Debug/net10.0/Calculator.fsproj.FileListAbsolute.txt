@@ -27,3 +27,4 @@ C:\Users\JoelCarter\source\repos\Calculator\Calculator\obj\Debug\net10.0\refint\
 C:\Users\JoelCarter\source\repos\Calculator\Calculator\obj\Debug\net10.0\Calculator.pdb
 C:\Users\JoelCarter\source\repos\Calculator\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
 C:\Users\JoelCarter\source\repos\Calculator\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+C:\Users\JoelCarter\source\repos\Calculator\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
